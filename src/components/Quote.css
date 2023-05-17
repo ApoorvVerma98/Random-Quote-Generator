@@ -1,0 +1,18 @@
+/* Quote.css */
+
+.Quote {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.QuoteText {
+  font-size: 24px;
+  padding: 10px;
+  background: linear-gradient(to right, #f7b733, #fc4a1a);
+  border-radius: 5px;
+}
+
+.QuoteAuthor {
+  font-size: 18px;
+  margin-top: 10px;
+}
